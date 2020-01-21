@@ -1,4 +1,6 @@
 DEV RESOLUSI
--Target tahun ini menguasai satu framwork
+-Target tahun ini menguasai satu framework
 -Join forum offline
 -Kursus Online
+-Membuat API
+-Kuliah teknik informatika  
