@@ -1,7 +1,7 @@
 RENCANA BULAN FEBUARI
 -kursus online
  fullstackdesigner
- backenddeveloper
+ frontend
 -ikut bootcamp
- bandung
- semarang
+ solo
+
