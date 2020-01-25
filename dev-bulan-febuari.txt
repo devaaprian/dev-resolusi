@@ -4,3 +4,4 @@ RENCANA BULAN FEBUARI
  backenddeveloper
 -ikut bootcamp
  bandung
+ semarang
