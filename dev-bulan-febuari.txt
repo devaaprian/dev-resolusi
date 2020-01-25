@@ -1,4 +1,6 @@
 RENCANA BULAN FEBUARI
 -kursus online
  fullstackdesigner
+ frontend
 -ikut bootcamp
+ solo
